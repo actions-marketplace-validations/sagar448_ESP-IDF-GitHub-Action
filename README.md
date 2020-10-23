@@ -5,7 +5,7 @@ GitHub Action for Espressif ESP-IDF.
 Paste
 
 ```
-- name: esp-idf build
+- name: Build using ESP-IDF
   uses: sagar448/ESP-IDF-GitHub-Action@1
 ```
 
