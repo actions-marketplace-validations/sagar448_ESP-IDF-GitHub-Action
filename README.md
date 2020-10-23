@@ -6,7 +6,7 @@ Paste
 
 ```
 - name: esp-idf build
-  uses: sagar448/ESP-IDF-GitHub-Action@1
+  uses: sagar448/ESP-IDF-GitHub-Action@(IDF version here without brackets)
 ```
 
 into your workflow .yml file.
