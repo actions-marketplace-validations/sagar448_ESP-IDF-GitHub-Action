@@ -1,0 +1,9 @@
+name: "ESP-IDF build action"
+author: "Sagar Jaiswal"
+description: "This action builds your esp-idf code using docker containers for a specified version."
+branding:
+  color: blue
+  icon: check
+runs:
+  using: "docker"
+  image: "Dockerfile"
